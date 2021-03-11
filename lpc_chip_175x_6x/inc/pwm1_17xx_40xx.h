@@ -1,8 +1,8 @@
 /*
  * pwm1_17xx_40xx.h
  *
- *  Created on: 27 de jun. de 2018
- *      Author: DaianaCasas
+ *  Created on: 11 de mar. de 2020
+ *      Author: ealegremendoza.
  */
 
 #ifndef __PWM1_17XX_40XX_H_

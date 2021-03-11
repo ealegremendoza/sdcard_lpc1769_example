@@ -1,8 +1,8 @@
 /*
  * pwm1_17xx_40xx.c
  *
- *  Created on: 3 de jul. de 2018
- *      Author: DaianaCasas.
+ *  Created on: 11 de mar. de 2020
+ *      Author: ealegremendoza.
  */
 #include "chip.h"
 #include "pwm1_17xx_40xx.h"
