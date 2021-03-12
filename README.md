@@ -11,6 +11,7 @@ Proyecto ejemplo para controlar tarjeta SD con sistema de archivos FatFs, con el
 ---
 ## LPCXpresso LPC1769
 ![lpc1769](img/lpc1769_lpcxpresso.png "LPCXpresso LPC1769 revC.") 
+![lpc1769_pinout](img/lpc1769_pinout.png "LPCXpresso LPC1769 pinout")
 ## Modulo SD
 ![SDcard_module](img/modulo_sd_arduino.png "SDCard Module")
 
