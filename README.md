@@ -5,8 +5,16 @@ Proyecto ejemplo para controlar tarjeta SD con sistema de archivos FatFs, con el
 - Lenguaje: C.
 - Microcontrolador: [LPCXpresso lpc1769 rev C](https://www.embeddedartists.com/products/lpc1769-lpcxpresso/).
 - Libreria [LPC Open](https://www.nxp.com/design/microcontrollers-developer-resources/lpcopen-libraries-and-examples:LPC-OPEN-LIBRARIES).
-- Libreria [FatFs](http://elm-chan.org/fsw/ff/00index_e.html). 
-- [Modulo lector de tarjeta SD Arduino](https://www.amazon.com/SunFounder-Module-Socket-Reader-Arudino/dp/B00GBVXJHI/ref=sr_1_4?dchild=1&keywords=arduino+sd+card+module&qid=1615495540&sr=8-4) .
+- Libreria [FatFs](http://elm-chan.org/fsw/ff/00index_e.html).  
+- [Modulo lector de tarjeta SD Arduino](https://www.amazon.com/SunFounder-Module-Socket-Reader-Arudino/dp/B00GBVXJHI/ref=sr_1_4?dchild=1&keywords=arduino+sd+card+module&qid=1615495540&sr=8-4).
+
+---
+## LPCXpresso LPC1769
+![lpc1769](img/lpc1769_lpcxpresso.png "LPCXpresso LPC1769 revC.") 
+## Modulo SD
+![SDcard_module](img/modulo_sd_arduino.png "SDCard Module")
+
 ---
 Autor: @ealegremendoza
+
 E-mail: ealegremendoza@gmail.com
