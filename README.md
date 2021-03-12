@@ -1,4 +1,4 @@
-#   servomotor pwm lpc1769 example
+#   SDCard lpc1769 example
 Proyecto ejemplo para controlar tarjeta SD con sistema de archivos FatFs, con el microcontrolador LPCXpresso lpc1769.
 
 - IDE: [MCUXpresso IDE](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE).
